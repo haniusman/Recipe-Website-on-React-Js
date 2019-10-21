@@ -1,0 +1,19 @@
+/* //all classes will relate to recipe only no matter if same classname is used for other components */
+.recipe{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(71, 71, 71);
+    margin: 20px;
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: white;
+    align-items: center;
+    min-width: 40px;
+}
+
+.image{
+    border-radius: 10%;
+    width:200px;
+    height: 200px;
+}
